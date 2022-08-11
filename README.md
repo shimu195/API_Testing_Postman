@@ -11,4 +11,4 @@ In API Testing, instead of using standard user inputs(keyboard) and outputs, you
 
 # Where is API Testing Performed?
 
-API testing is performed at the most critical layer: business, in which business logic processing is carried out and all transactions between the user interface and database layers happen.gi
+API testing is performed at the most critical layer: business, in which business logic processing is carried out and all transactions between the user interface and database layers happen.
